@@ -1,0 +1,9 @@
+/* styles.css */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .height-selector{
+    height: 92%;
+}
+  
